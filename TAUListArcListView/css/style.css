@@ -1,0 +1,47 @@
+#arcList .ui-header{
+	height: 116px;
+}
+#arcList .ui-title{
+	font-size: 30px;
+	color: #00CD3C;
+}
+.ui-listview li.ui-li-has-multiline{
+	width: 320px;
+	font-size: 38px;
+	font-weight: normal;
+	height: 108px;
+}
+.song-number
+{
+	float: left;
+	width: 60px;
+	font-size: 35px;
+	color: white;
+}
+.song-name
+ {
+	float: right;
+	width: 240px;
+	text-align: left;
+	font-size: 35px;	
+	color: white;
+}
+.song-rank
+{
+	float: left;
+	width: 60px;
+	text-align: center;
+	font-size: 24px;		
+	color: white;
+}
+.song-artist
+{
+	float: right;
+	width: 240px;
+	text-align: left;
+	font-size: 26px;	
+	font-weight: normal;	
+	color: rgba(255, 255, 255, 0.55);
+	text-overflow: ellipsis;
+	overflow: hidden;
+}
